@@ -1,10 +1,10 @@
-# EXPERIMENT01 ALP FOR 8086
+# EXPERIMENT--01-ALP-FOR-8086
 
-Name : KANAGAVEL R
+Name : KISHORE M
 
-Roll no :212223040085
+Roll no :212223040100
 
-Date of experiment : 03/03/2025
+Date of experiment : 12/03/2025
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
